@@ -1,0 +1,8 @@
+.venv
+
+**/*cache*/
+**/*cache*/**/
+
+__pycache__/
+*.py[cod]
+*$py.class_pycache__/
